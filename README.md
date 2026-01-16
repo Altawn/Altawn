@@ -16,6 +16,7 @@ Open to internships
 - 🔎 Seeking a 4–5 month internship starting April 2025
 
 Contact
-- 📧 [ronanmeyergo@gmail.com](mailto:ronanmeyergo@gmail.com)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ronan-meyer  
-- 🧰 GitLab (projects): https://gitlab.com/tw-ece-paris/promo-2025/gr-01/lab-create-tw-2025-04-meyerroussilhon-ronan
+- Email : [ronanmeyergo@gmail.com](mailto:ronanmeyergo@gmail.com)  
+- LinkedIn: https://www.linkedin.com/in/ronan-meyer
+- GitLab : https://gitlab.com/tw-ece-paris/promo-2025/gr-01/lab-create-tw-2025-04-meyerroussilhon-ronan
+- Portfolio : [My Portfolio](ronan-meyer.vercel.app)
